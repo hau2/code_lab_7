@@ -1,0 +1,52 @@
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Bai Tap_Thuc_Hanh\Code_Lab_7\Code_Lab_7\bin\Debug\Code_Lab_7.exe.config
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Bai Tap_Thuc_Hanh\Code_Lab_7\Code_Lab_7\obj\Debug\Code_Lab_7.csprojResolveAssemblyReference.cache
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Bai Tap_Thuc_Hanh\Code_Lab_7\Code_Lab_7\obj\Debug\Code_Lab_7.Properties.Resources.resources
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Bai Tap_Thuc_Hanh\Code_Lab_7\Code_Lab_7\obj\Debug\Code_Lab_7.csproj.GenerateResource.Cache
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Bai Tap_Thuc_Hanh\Code_Lab_7\Code_Lab_7\bin\Debug\Code_Lab_7.exe
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Bai Tap_Thuc_Hanh\Code_Lab_7\Code_Lab_7\bin\Debug\Code_Lab_7.pdb
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Bai Tap_Thuc_Hanh\Code_Lab_7\Code_Lab_7\obj\Debug\Code_Lab_7.exe
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Bai Tap_Thuc_Hanh\Code_Lab_7\Code_Lab_7\obj\Debug\Code_Lab_7.pdb
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Bai Tap_Thuc_Hanh\Code_Lab_7\Code_Lab_7\obj\Debug\Code_Lab_7.Lab7_frm_QLSinhVien.resources
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Bai Tap_Thuc_Hanh\Code_Lab_7\Code_Lab_7\obj\Debug\Code_Lab_7.Lab7_frm_SinhVien1.resources
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Bai Tap_Thuc_Hanh\Code_Lab_7\Code_Lab_7\obj\Debug\Code_Lab_7.Lab7_frm_KhachHang.resources
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Bai Tap_Thuc_Hanh\Code_Lab_7\Code_Lab_7\obj\Debug\Code_Lab_7.Slide9_frm_Parent.resources
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Bai Tap_Thuc_Hanh\Code_Lab_7\Code_Lab_7\obj\Debug\Code_Lab_7.Slide9_QLThuVien_QuanLySach.resources
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Bai Tap_Thuc_Hanh\Code_Lab_7\Code_Lab_7\obj\Debug\Code_Lab_7.Slide9_MenuStrip_QLThuVien.resources
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Bai Tap_Thuc_Hanh\Code_Lab_7\Code_Lab_7\obj\Debug\Code_Lab_7.Slide9_MenuStrip_ChuotPhai.resources
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Bai Tap_Thuc_Hanh\Code_Lab_7\Code_Lab_7\obj\Debug\Code_Lab_7.FormCha.resources
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Bai Tap_Thuc_Hanh\Code_Lab_7\Code_Lab_7\obj\Debug\Code_Lab_7.frm_Con.resources
+C:\Users\KHUONG\Desktop\Code_Lab_7\Code_Lab_7\bin\Debug\Code_Lab_7.exe.config
+C:\Users\KHUONG\Desktop\Code_Lab_7\Code_Lab_7\obj\Debug\Code_Lab_7.exe
+C:\Users\KHUONG\Desktop\Code_Lab_7\Code_Lab_7\obj\Debug\Code_Lab_7.pdb
+C:\Users\KHUONG\Desktop\Code_Lab_7\Code_Lab_7\obj\Debug\Code_Lab_7.csprojResolveAssemblyReference.cache
+C:\Users\KHUONG\Desktop\Code_Lab_7\Code_Lab_7\obj\Debug\Code_Lab_7.Properties.Resources.resources
+C:\Users\KHUONG\Desktop\Code_Lab_7\Code_Lab_7\obj\Debug\Code_Lab_7.csproj.GenerateResource.Cache
+C:\Users\KHUONG\Desktop\Code_Lab_7\Code_Lab_7\bin\Debug\Code_Lab_7.exe
+C:\Users\KHUONG\Desktop\Code_Lab_7\Code_Lab_7\bin\Debug\Code_Lab_7.pdb
+C:\Users\KHUONG\Desktop\Code_Lab_7\Code_Lab_7\obj\Debug\Code_Lab_7.frm_KhachHang.resources
+D:\_HocOnline\CS464H\Code_Lab_7\Code_Lab_7\Code_Lab_7\bin\Debug\SQL_KHACHHANG.mdf
+D:\_HocOnline\CS464H\Code_Lab_7\Code_Lab_7\Code_Lab_7\bin\Debug\SQL_KHACHHANG_log.ldf
+D:\_HocOnline\CS464H\Code_Lab_7\Code_Lab_7\Code_Lab_7\bin\Debug\Code_Lab_7.exe.config
+D:\_HocOnline\CS464H\Code_Lab_7\Code_Lab_7\Code_Lab_7\bin\Debug\Code_Lab_7.exe
+D:\_HocOnline\CS464H\Code_Lab_7\Code_Lab_7\Code_Lab_7\bin\Debug\Code_Lab_7.pdb
+D:\_HocOnline\CS464H\Code_Lab_7\Code_Lab_7\Code_Lab_7\obj\Debug\Code_Lab_7.csprojAssemblyReference.cache
+D:\_HocOnline\CS464H\Code_Lab_7\Code_Lab_7\Code_Lab_7\obj\Debug\Code_Lab_7.frm_KhachHang.resources
+D:\_HocOnline\CS464H\Code_Lab_7\Code_Lab_7\Code_Lab_7\obj\Debug\Code_Lab_7.Properties.Resources.resources
+D:\_HocOnline\CS464H\Code_Lab_7\Code_Lab_7\Code_Lab_7\obj\Debug\Code_Lab_7.csproj.GenerateResource.cache
+D:\_HocOnline\CS464H\Code_Lab_7\Code_Lab_7\Code_Lab_7\obj\Debug\Code_Lab_7.csproj.CoreCompileInputs.cache
+D:\_HocOnline\CS464H\Code_Lab_7\Code_Lab_7\Code_Lab_7\obj\Debug\Code_Lab_7.exe
+D:\_HocOnline\CS464H\Code_Lab_7\Code_Lab_7\Code_Lab_7\obj\Debug\Code_Lab_7.pdb
+D:\_HocOnline\CS464H\Code_Lab_7\Code_Lab_7\Code_Lab_7\obj\Debug\Code_Lab_7.frm_login.resources
+C:\Users\Admin\Downloads\BTVN_Lab_7\Code_Lab_7\Code_Lab_7\bin\Debug\SQL_KHACHHANG.mdf
+C:\Users\Admin\Downloads\BTVN_Lab_7\Code_Lab_7\Code_Lab_7\bin\Debug\SQL_KHACHHANG_log.ldf
+C:\Users\Admin\Downloads\BTVN_Lab_7\Code_Lab_7\Code_Lab_7\bin\Debug\Code_Lab_7.exe.config
+C:\Users\Admin\Downloads\BTVN_Lab_7\Code_Lab_7\Code_Lab_7\bin\Debug\Code_Lab_7.exe
+C:\Users\Admin\Downloads\BTVN_Lab_7\Code_Lab_7\Code_Lab_7\bin\Debug\Code_Lab_7.pdb
+C:\Users\Admin\Downloads\BTVN_Lab_7\Code_Lab_7\Code_Lab_7\obj\Debug\Code_Lab_7.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\BTVN_Lab_7\Code_Lab_7\Code_Lab_7\obj\Debug\Code_Lab_7.frm_login.resources
+C:\Users\Admin\Downloads\BTVN_Lab_7\Code_Lab_7\Code_Lab_7\obj\Debug\Code_Lab_7.frm_KhachHang.resources
+C:\Users\Admin\Downloads\BTVN_Lab_7\Code_Lab_7\Code_Lab_7\obj\Debug\Code_Lab_7.Properties.Resources.resources
+C:\Users\Admin\Downloads\BTVN_Lab_7\Code_Lab_7\Code_Lab_7\obj\Debug\Code_Lab_7.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\BTVN_Lab_7\Code_Lab_7\Code_Lab_7\obj\Debug\Code_Lab_7.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\BTVN_Lab_7\Code_Lab_7\Code_Lab_7\obj\Debug\Code_Lab_7.exe
+C:\Users\Admin\Downloads\BTVN_Lab_7\Code_Lab_7\Code_Lab_7\obj\Debug\Code_Lab_7.pdb
