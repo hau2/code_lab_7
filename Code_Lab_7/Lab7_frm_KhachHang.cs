@@ -39,8 +39,8 @@ namespace Code_Lab_7
 
         private void frm_KhachHang_Load(object sender, EventArgs e)
         {
-            LoadDataKH();
             LoadCombobox();
+            LoadDataKH();
             this.dataGridView1.DefaultCellStyle.Font = new Font("Tahoma", 10);
             LoadDiaChi();
         }
@@ -105,6 +105,7 @@ namespace Code_Lab_7
         int chon = 0;
         private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
         {
+            label9.Text = "cell click";
             txt_MAKH.Text = dataGridView1.CurrentRow.Cells["MAKH"].Value.ToString().Trim();
             txt_HoTen.Text = dataGridView1.CurrentRow.Cells["TENKH"].Value.ToString();
             dateTimePicker1.Text = dataGridView1.CurrentRow.Cells["NGAYMUAHANG"].Value.ToString();
@@ -114,6 +115,7 @@ namespace Code_Lab_7
             pictureBox1.ImageLocation = duongdan + txt_MAKH.Text+".jpg";
             chon = 1;
             cb_TenHang.SelectedValue = dataGridView1.CurrentRow.Cells["MAHANG"].Value.ToString();
+            chon = 1;
         }
 
         private void rbo_Tang_CheckedChanged(object sender, EventArgs e)
@@ -144,7 +146,7 @@ namespace Code_Lab_7
         private void pictureBox1_Click(object sender, EventArgs e)
         {
             OpenFileDialog fileDialog = new OpenFileDialog();
-            fileDialog.Filter = "Tất cả các file|*.*|JPG|*.jpg|chọn file PNG|*.png|JPEG|*.jpeg";
+            fileDialog.Filter = "Tất cả  các file |*.*|Chọn file PNG |*.png";
             if(fileDialog.ShowDialog() == DialogResult.OK)
             {
                 pictureBox1.Image = Image.FromFile(fileDialog.FileName);
@@ -153,15 +155,15 @@ namespace Code_Lab_7
        
         private void cb_TenHang_SelectedIndexChanged(object sender, EventArgs e)
         {
-            if (cb_TenHang.SelectedValue != null && chon != 0)
+            
+            if (cb_TenHang.SelectedValue != null && chon == 0)
             {
+                label9.Text = "da vao if " + chon;
                 string textCB = cb_TenHang.GetItemText(cb_TenHang.SelectedValue).ToString();
                 string sqlCB = "select * from KHACHHANG where MAHANG ='" + textCB + "'";
                 dataGridView1.DataSource = lopchung.LoadKhachHang(sqlCB);
-            } else
-            {
-                chon = 1;
             }
+            if (chon == 1) chon = 0;
         }
     }
 }

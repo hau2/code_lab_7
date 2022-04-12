@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Code_Lab_7.GUI;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -17,6 +18,7 @@ namespace Code_Lab_7
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new frm_KhachHang());   // 3 chương trình chạy chính
+           // Application.Run(new Form1());   // 3 chương trình chạy chính
             //Application.Run(new frm_login());   // 3 chương trình chạy chính
 
         }
